@@ -1,4 +1,4 @@
-Menaxhimi i T.I.S
+## Menaxhimi i T.I.S
 
 Sic e kemi permendur me pare T.I.S eshte nje program icili vjen ne ndihme kompanive te cilat posedojne pajisje elektronike
 Te drejten per te "nderhyre" ne sistem dhe shtuar informacion te ri do ta kene punonjesit,nenpunesve dhe perdoruesit
