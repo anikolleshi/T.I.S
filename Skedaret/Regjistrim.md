@@ -7,7 +7,7 @@ do te kete dy butona te ndryshem
 2.  Sign Up
 -   Ne butonin Sign In do te regjistrohet menaxheri dhe automatikisht do i kalojne te drejtat perkatese
 >  **Regjistrimi i Nenpunesve,Klienteve**
->  Ne butonin Sign Up do te regjistrohen nenpunesit dhe klientet 
+>   Ne butonin Sign Up do te regjistrohen nenpunesit dhe klientet 
 >  Dallimi midis ketyre dy kategorive do te realizohet nepermjet kodit personal
 >  Sapo nje nga keta perdorues do te shenoj kodin e tij sistemi do te jete i afte ta dalloj 
 >  pasi ka qene menaxheri ai i cili me pare tek nderfaqja e tij ka regjistruar nenpunesit
