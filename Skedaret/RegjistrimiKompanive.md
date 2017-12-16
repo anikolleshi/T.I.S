@@ -2,7 +2,7 @@
 ## Rregjistrimi i Kompanive
 
 **Kompania si institut kryesor ka kryesine e saj ne nje vend te caktuar**
-Identifikohet nepermjet nje kodi te caktuar i cili percaktohet nga ligjet e vendet ku ajo ka ngritur aktivitetin e saj
+>Identifikohet nepermjet nje kodi te caktuar i cili percaktohet nga ligjet e vendet ku ajo ka ngritur aktivitetin e saj
 Filialet e saj i shperndan sipas kerkesave te perdoruesve
 Edhe fililialet kane nje identifakor te vetit i cili i ndan nga njera-tjetra
 Data Baza eshte e ndertuar nga informacionet baze te punoinjesve,nenpunesve,klienteve dhe sherbimet qe ofrohen
