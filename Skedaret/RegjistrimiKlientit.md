@@ -12,7 +12,7 @@
     -   mbiemri 
     -   gjendja e llogarisekur kerkon te kryeje nje porosi
  
->>2.   *Klient i perhershem* 
+  2.   *Klient i perhershem* 
      Eshte klient i rregjistruar ne DB e T.I.S 
      Ka nje karte te personalizuar me te dhenat e tij
      Dorezon keto te dhena ne sistem:
