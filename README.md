@@ -4,7 +4,7 @@
 
 
 >  T.I.S eshte nje software per te gjitha kompanite e ndryshme qe merren me fushen e elektronikes dhe pajisjeve elektronike. 
-Ne T.I.S cdo kompani mund te hap nje llogari te sajen dhe te krijoj nje "Dyqan" te sajin ne serverin qe T.I.S Posedon.
+Ne T.I.S cdo kompani mund te hap nje llogari te sajen dhe te krijoj nje "*Dyqan*" te sajin ne serverin qe T.I.S Posedon.
 Cdo Kompani do kete nje Databaze te sajen per cdo pajisje, personel dhe blersit e saj.
 T.I.S Eshte nje platform shumefunksionale.
 Ajo do te jete  nje pajisje statike ne hyrje te cdo filiali te kompanive qe do posedojn T.I.S-in!
