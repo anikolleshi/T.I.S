@@ -3,15 +3,16 @@
 
 **Pershkrimi**
 
+Dyqani i cilesise
+Ali Express Elektronik Shqiptar!
+Aplikacioni do te jete ne 3(tri) hapesira :
+#1-Faqja kryesore ku klienti  mund te lundroj per te pare produktet me te fundit shoqeruar me oferten perkatese,prezantuar nga kompania perkates.
+#2-Faqja e porosise ku do te shfaqen te gjitha porosite e bera nga klienti,shoqeruar me informacionin perkates
+#3-Faqja e perdoruesit ose profili i tij ku klienti ruan te dhenat e tij si:emer,mbiemer,adresa,numri i telefonit si dhe te dhenat bankare per te kryeer porosi.
+Ky aplikacion do te sherbej si nje perforcues i konkuruences midis kompanive elektronike per te paraqitur produktin e tyre me te mire shoqeruar me oferten.
+Klienti do te kete te drejte te zbuloj midis disa produkteve me te leverdishmin per te dhe te kryej porosi nga shtepia.
+Ky aplikacion eshte menduar te nis ne qytetin e Vlores midis 3(tre) kompanive elektronike qe operojne ne te si:NEPTUN,GLOBE & AZA ELECTRONIC
 
->  T.I.S eshte nje software per te gjitha kompanite e ndryshme qe merren me fushen e elektronikes dhe pajisjeve elektronike. 
-Ne T.I.S cdo kompani mund te hap nje llogari te sajen dhe te krijoj nje "*Dyqan*" te sajin ne serverin qe T.I.S Posedon.
-
-Cdo Kompani do kete nje Databaze te sajen per cdo pajisje, personel dhe blersit e saj.
-T.I.S Eshte nje platform shumefunksionale.
-Ajo do te jete  nje pajisje statike ne hyrje te cdo filiali te kompanive qe do posedojn T.I.S-in!
-Me pas do jete applikacion per pajisje iOS dhe Android dhe do kete nje Web adress online me faqen e saj.
-Kjo eshte nje pjes lehtesuese e software-it per perdoruesit dhe kompanite qe do e posedojne T.I.S-in.
 
 ### Antaret e grupi : 
 -   *Hasan Kolleshi (Kryetar Grupi).*
